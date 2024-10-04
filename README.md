@@ -236,7 +236,7 @@ Too Subtle to Notice: Investigating Executable Stack Issues in Linux System
 @inproceedings{ye:badass,
   title        = {{Too Subtle to Notice: Investigating Executable Stack Issues in Linux System}},
   author       = {Hengkai Ye and Hong Hu},
-  booktitle    = {Proceedings of the 32th Network and Distributed System Security Symposium (NDSS 2025)},
+  booktitle    = {Proceedings of the 32nd Network and Distributed System Security Symposium (NDSS 2025)},
   month        = {feb},
   year         = {2025},
   address      = {San Diego, CA},

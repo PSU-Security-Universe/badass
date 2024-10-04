@@ -11,7 +11,7 @@
 2. Switch to unpatched version: `git checkout d722ec5`.
 3. Follow the official instructions to install dependencies.
 4. Use RetroWrite to disassemble `hello_world`: `./retrowrite hello_world hello_world.s`.
-5. Compile `hello_world.s` to `hello_world_mod`: `gcc hello_world.s -o hello_world`.
+5. Compile `hello_world.s` to `hello_world_mod`: `gcc hello_world.s -o hello_world_mod`.
 6. The reassembled `hello_world_mod` has an executable stack.
 7. Switch to patched version via `git checkout c31896e` and repeat 4~5. The assembly directive is added to `hello_world.s` and no exectable stack in reassembled `hello_world_mod`.
 
