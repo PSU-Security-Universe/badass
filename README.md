@@ -231,10 +231,10 @@ Please check [our paper](https://huhong789.github.io/papers/ye:badass.pdf) publi
 ## Publication
 
 ```bib
-Too Subtle to Notice: Investigating Executable Stack Issues in Linux System
+Too Subtle to Notice: Investigating Executable Stack Issues in Linux Systems
 
 @inproceedings{ye:badass,
-  title        = {{Too Subtle to Notice: Investigating Executable Stack Issues in Linux System}},
+  title        = {{Too Subtle to Notice: Investigating Executable Stack Issues in Linux Systems}},
   author       = {Hengkai Ye and Hong Hu},
   booktitle    = {Proceedings of the 32nd Network and Distributed System Security Symposium (NDSS 2025)},
   month        = {feb},
