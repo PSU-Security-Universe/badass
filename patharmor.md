@@ -1,6 +1,6 @@
 ## From Provided VirtualBox Image
 
-1. Download VirtualBox image from [badass vm](https://drive.google.com/file/d/1uRlQCZ_B1TPZSQbs8TzKLxM1HD_sTP7_/view?usp=sharing)
+1. Download VirtualBox image from [badass vm](https://zenodo.org/records/15467218)
 2. Boot the VM and select Linux kernel 3.16.0-77 in grub menu
 3. Login with password "badass"
 4. In `~/badass-vm/patharmor/shared/`, we can find `libwrapper.so` with GNU_STACK set to RWX

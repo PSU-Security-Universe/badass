@@ -1,6 +1,6 @@
 ## From Provided VirtualBox Image
 
-1. Download VirtualBox image from [badass vm](https://drive.google.com/file/d/1uRlQCZ_B1TPZSQbs8TzKLxM1HD_sTP7_/view?usp=sharing)
+1. Download VirtualBox image from [badass vm](https://zenodo.org/records/15467218)
 2. Boot the VM and select Linux kernel 4.4.0-142-generic in grub menu
 3. Login with password "badass"
 4. In `~/badass-vm/MCFI/`, run `~/MCFI/toolchain/clang hello_world.c -o hello_world`
